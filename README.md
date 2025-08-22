@@ -1,8 +1,8 @@
 # CrazyFlie-Notes
 
-This is a repository of various files and notes related to the summer project using Bitcraze Crazyflies.
+This is a repository of various files and notes related to the summer project using Bitcraze Crazyflies. The parameters below are used with the ESP-32 and flow deck installed.
 
-# Parameters to change:
+# Ardupilot parameters to change:
 
 COMPASS_USE 0
 
