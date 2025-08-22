@@ -1,3 +1,39 @@
 # CrazyFlie-Notes
 
 This is a repository of various files and notes related to the summer project using Bitcraze Crazyflies.
+
+# Parameters to change:
+
+COMPASS_USE 0
+COMPASS_USE2 0
+COMPASS_USE3 0
+
+EK3_SRC1_POSXY 0
+EK3_SRC1_POSZ 2
+EK3_SRC1_VELXY 5
+EK3_SRC1_VELZ 0
+EK3_SRC1_YAW 0
+
+EK3_SRC2_POSXY 0
+EK3_SRC2_POSZ 2
+EK3_SRC2_VELXY 5
+EK3_SRC2_VELZ 0
+EK3_SRC2_YAW 0
+
+EK3_SRC3_POSXY 0
+EK3_SRC3_POSZ 2
+EK3_SRC3_VELXY 5
+EK3_SRC3_VELZ 0
+EK3_SRC3_YAW 0
+
+FLOW_TYPE 9
+
+FS_THR_ENABLE 0 //Disable failsafe
+
+RNGFND1_TYPE 16
+RNGFND1_ADDR 41
+
+SERIAL3_BAUD 115
+SERIAL3_PROTOCOL 2
+
+SCR_ENABLE 1 //For Lua scripting
